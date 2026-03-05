@@ -3,7 +3,7 @@ import flyer02 from "@/assets/flyer-02.png";
 
 const Index = () => {
   return (
-    <div className="flex min-h-svh flex-col items-center justify-center gap-4 bg-background px-3 py-6">
+    <div className="flex flex-col items-center gap-4 bg-background px-3 py-6">
       <a
         href="https://wa.me/5545991129960?text=Oi,%20Vinicius!%20Quero%20saber%20mais%20sobre%20seus%20servicos%20de%20marketing."
         target="_blank"
